@@ -14,8 +14,8 @@
 
 ### 💫 About Me
 
--  I'm a Front-end Development
--  I’m currently working on Front-end Development
+-  I'm a focusing on Front-end Development and also DSA in Java
+-  I’m currently working on My Self improvment
 -  I’m currently learning New Tech Skills
 -  I’m looking to collaborate with open source enthusiasts
 
