@@ -1,73 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+# 💫 About Me:
+👋 Hi, I'm Ajeet  <br><br>🎓 Final Year Bachelor in Computer Application  <br>💻 Aspiring Software Engineer | Full-Stack Developer  <br>🚀 Passionate about building scalable, real-time & AI-powered systems  <br><br>🧠 Currently Learning & Exploring:<br>⚙️ Full-Stack Web Development  <br>📊 DSA with JavaScript  <br>🧩 Microservices Architecture  <br>🚢 DevOps (CI/CD, Docker, Cloud Basics)  <br>⛓️ Blockchain Fundamentals  <br>🤖 AI & Generative AI  <br>🧠 Large Language Models (LLMs)  <br>📚 RAG (Retrieval-Augmented Generation)  <br>🖧 MCP Server Concepts  <br>⚡ Real-Time Systems (Socket.IO)  <br><br>🛠️ Tech Stack & Tools:<br>🎨 HTML | CSS | JavaScript  <br>⚛️ React.js  <br>🌐 Node.js | Express.js  <br>🗄️ MongoDB  <br>☕ Core Java  <br>🔌 Socket.IO  <br><br>🎯 Goals:<br>🌱 Build production-ready applications  <br>🏗️ Master backend & microservices  <br>🤖 Work on AI-driven systems  <br>🏆 Crack top internships & grow as an engineer  <br><br>✨ Philosophy:<br>"Start early 🚀 Stay consistent 🔁 Build real things 🛠️"<br>
 
-<div id="header" align="center">
-
-<h1>Hey there, Ajeet Kuntal this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
-
-</div>
-
-<br>
-
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
-
-### 💫 About Me
-
--  I'm a focusing on Front-end Development and also DSA in Java
--  I’m currently working on My Self improvment
--  I’m currently learning New Tech Skills
--  I’m looking to collaborate with open source enthusiasts
-
-<br>
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kuntal_ajeet_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-kuntal-301a50286/)
 
-<div align="center">
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajeet-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ajeet-05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.instagram.com/mr.khutaila_ajeet" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ajeet-kuntal-301a50286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/theajeet/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ajeet-05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=ajeet-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 💻 Tech Stack:
-
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,jquery,materialui,tailwind,redux,mysql,java,vercel,netlify,git,bash&perline=11" />
-</a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theajeet&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theajeet&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=theajeet&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
-<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=theajeet&theme=radical">
-
-</div><br>
-
-<hr>
-
-<p align="center">
-  <b>Thanks for your visit to my profile! 😊</b>
-</p>
-
-
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mohitxcodes&color=red" alt="Total Github views" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
