@@ -1,0 +1,148 @@
+<div align="center">
+
+<!-- Capsule Render Header - very reliable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Ajeet%20Kuntal&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20Freelancer&descAlignY=58&descAlign=50&descSize=18&descColor=e9d5ff" />
+
+<br/>
+
+<!-- Typing Animation - herokuapp version -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Front-end+Developer+in+Progress+%F0%9F%92%BB" />
+<!-- ;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building+Real-Time+Systems+%E2%9A%A1;Microservices+%26+Blockchain+Learner+%F0%9F%94%97;RAG+%7C+MCP+%7C+GenAI+Explorer+%F0%9F%A7%A0" alt="Typing SVG -->
+<br/><br/>
+
+<!-- Profile Views - komarev is very reliable -->
+![Profile Views](https://komarev.com/ghpvc/?username=ajeet-0504&color=a855f7&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ajeet-05?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/ajeet-05)
+
+</div>
+
+---
+
+<div align="center">
+
+## 👋 Hi, I'm Ajeet Kuntal!
+
+</div>
+
+> 💜 *"Code is poetry written in logic — and I'm just getting started."*
+
+🎓 **Final Year BCA Student** &nbsp;|&nbsp; 💻 **Front-end Developer** &nbsp;|&nbsp; 💻 **Freelancer**
+
+---
+
+<div align="center">
+
+## 🧠 Currently Learning & Exploring
+
+<br/>
+
+<!-- shields.io badges - 100% reliable -->
+![Front-end](https://img.shields.io/badge/Front--end%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![DSA JavaScript](https://img.shields.io/badge/DSA%20with%20JavaScript-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind--CSS-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Three.js](https://img.shields.io/badge/Three.js-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Next.js](https://img.shields.io/badge/Next.js-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Typescript](https://img.shields.io/badge/Typescript-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![CS](https://img.shields.io/badge/CS-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ Tech Stack & Tools
+
+<br/>
+
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-6DA55F?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23404d59.svg?style=for-the-badge&logo=three.js&logoColor=%2361DAFB)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&badgeColor=010101)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-%2320232a.svg?style=for-the-badge&logo=redux--toolkit&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind--CSS-%234ea94b.svg?style=for-the-badge&logo=tailwind--css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-%230db7ed.svg?style=for-the-badge&logo=framer--motion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=ajeet-05&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ajeet-05&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-05&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<br/>
+
+<!-- activity graph - vercel hosted, reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajeet-05&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<br/>
+
+<!-- Snake - will work after workflow runs successfully -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+---
+
+<div align="center">
+
+## 🌐 Let's Connect!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-kuntal-301a50286/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isha_singh) -->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ishasingh.dev) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajeetkuntal0005@gmail.com)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=IshaCodes04&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+
+</div>
