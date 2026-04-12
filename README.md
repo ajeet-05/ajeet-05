@@ -114,9 +114,9 @@
 
 <!-- Snake - will work after workflow runs successfully -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ajeet-05/ajeet-05/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -134,7 +134,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-kuntal-301a50286/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kuntal_aje75486)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ajeet.dev)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ajeet.dev) -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajeetkuntal0005@gmail.com)
 
 <br/>
